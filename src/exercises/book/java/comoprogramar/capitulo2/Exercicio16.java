@@ -10,20 +10,20 @@ public class Exercicio16 {
     int number1;
     int number2;
     public static void main(String[] args) {
-        Scanner inputScanner = new Scanner(System.in);
-        
-        System.out.print("Enter the first number: ");
-        int number1 = inputScanner.nextInt();
+        try (Scanner inputScanner = new Scanner(System.in)) {
+            System.out.print("Enter the first number: ");
+            int number1 = inputScanner.nextInt();
 
-        System.out.print("Enter the first number: ");
-        int number2 = inputScanner.nextInt();
+            System.out.print("Enter the first number: ");
+            int number2 = inputScanner.nextInt();
 
-        if(number1 > number2) {
-            System.out.println(number1 + " is larger");
-        } if (number2 > number1) {
-            System.out.println(number2 + " is larger");
-        } if (number1 == number2) {
-            System.out.println("These numbers are equal");
+            if(number1 > number2) {
+                System.out.println(number1 + " is larger");
+            } if (number2 > number1) {
+                System.out.println(number2 + " is larger");
+            } if (number1 == number2) {
+                System.out.println("These numbers are equal");
+            }
         }
 
 
