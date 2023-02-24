@@ -6,7 +6,7 @@ import java.util.Scanner;
 obtenha dele esses numeros e exiba o numero maior seguido pelas palavras "Is larger". Se os numeros forem iguais,
 imprima a mensagem "These numbers are equal". Utilize as tecnicas mostradas na figura 2.15 ( pag 44)
 */
-public class Exercicio16 {
+public class Exercicio2e16 {
     int number1;
     int number2;
     public static void main(String[] args) {

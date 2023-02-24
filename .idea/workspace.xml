@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d825ae36-3859-449d-8709-8ca65cd69035" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises.java.book.comprogramar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Execicio16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Execicio26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Execicio2e26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio2e27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/book/java/comoprogramar/capitulo2/Exercicio29.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +55,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Devellopment/Workspace/java.online",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Devellopment/Workspace/exercises.book.java.comoprogramar/exercises.java.book.comprogramar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +76,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673116096982</updated>
+      <workItem from="1677269577464" duration="6808000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

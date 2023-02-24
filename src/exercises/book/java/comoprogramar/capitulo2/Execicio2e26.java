@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  *
  */
-public class Execicio26 {
+public class Execicio2e26 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int num1;

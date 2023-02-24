@@ -7,7 +7,7 @@ além de determinar e imprimir o maior e o menor inteiro no grupo.
 Utilize somente as técnicas de programação que você aprendeu neste capítulo.
  */
 
-public class Exercicio24 {
+public class Exercicio2e24 {
   int numeroUm;
   int numeroDois;
   int numeroTres;

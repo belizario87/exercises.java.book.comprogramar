@@ -7,7 +7,7 @@ import java.util.Scanner;
 obtenha dele esses numeros e imprima sua soma, produto, diferenca e quociente (divisao).
 Utilize as tecnicas usadas na figura 2.7. (pag 36)
 */
-public class Exercicio15 {
+public class Exercicio2e15 {
 
 
     public static void main(String[] args) {

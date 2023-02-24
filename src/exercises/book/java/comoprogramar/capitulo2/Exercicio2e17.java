@@ -10,7 +10,7 @@ números menores e maiores. Utilize as técnicas mostradas na Figura 2.15.
 em uma representação de inteiro. 
 Assim, se a soma dos valores for 7, a média deverá ser 2, não 2,3333...]*/ 
 
-public class Exercicio17 {
+public class Exercicio2e17 {
     int number1;
     int number2;
     int number3;
